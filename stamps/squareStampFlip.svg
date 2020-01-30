@@ -28,19 +28,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.89"
-     inkscape:cx="599.44897"
-     inkscape:cy="943.10767"
+     inkscape:zoom="1.3364318"
+     inkscape:cx="492.88183"
+     inkscape:cy="805.36338"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1057"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -59,12 +60,12 @@
      inkscape:label="square"
      style="display:inline">
     <rect
-       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#ff0000;stroke-width:1.02193904;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.84422111"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ff0000;stroke-width:1.02193904;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.84422111"
        id="rect827-9"
        width="275.42767"
        height="81.247284"
-       x="422.05057"
-       y="155.59254" />
+       x="6.7656317"
+       y="6.1741471" />
   </g>
   <g
      inkscape:label="logo"
@@ -82,56 +83,53 @@
          x="-46.626987"
          id="tspan1405"
          sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.70874023px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.22572863px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-151.06305"
+       y="61.211384"
+       id="text4180"
+       transform="scale(-1.0972404,0.9113773)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.09501266px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.22572863px"
+         sodipodi:role="line"
+         id="tspan4182"
+         x="-151.06305"
+         y="61.211384">PIXELPOX</tspan></text>
     <g
-       id="g877"
-       transform="matrix(-1,0,0,1,1116.179,-0.03908539)">
+       id="g889"
+       transform="matrix(-0.47411425,0,0,0.47411425,318.63571,-68.249885)"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
       <text
-         transform="scale(1.0972404,0.9113773)"
-         id="text4180"
-         y="225.20218"
-         x="487.71591"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.70874023px;line-height:0%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.22572863px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="225.20218"
-           x="487.71591"
-           id="tspan4182"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.84406233;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="244.34689"
+         y="302.64349"
+         id="text4195"><tspan
+           style="font-size:180px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.84406233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.09501266px;line-height:1.25;font-family:monospace;-inkscape-font-specification:'monospace Bold';stroke-width:1.22572863px">PIXELPOX</tspan></text>
-      <g
-         style="fill:#000000;fill-opacity:1"
-         transform="matrix(0.47411425,0,0,0.47411425,382.25835,81.207598)"
-         id="g889">
-        <text
-           id="text4195"
-           y="302.64349"
+           id="tspan4197"
            x="244.34689"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.84406233;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.84422111"
-           xml:space="preserve"><tspan
-             y="302.64349"
-             x="244.34689"
-             id="tspan4197"
-             sodipodi:role="line"
-             style="font-size:180px;line-height:1.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.84406233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.84422111">P</tspan></text>
-        <text
-           transform="scale(-1,1)"
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.84406233;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.84422111"
-           x="-154.10217"
+           y="302.64349">P</tspan></text>
+      <text
+         id="text4199"
+         y="302.64349"
+         x="-154.10217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Franklin Gothic Medium';-inkscape-font-specification:'Franklin Gothic Medium, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.84406233;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(-1,1)"><tspan
+           style="font-size:180px;line-height:1.25;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.84406233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            y="302.64349"
-           id="text4199"><tspan
-             sodipodi:role="line"
-             id="tspan4201"
-             x="-154.10217"
-             y="302.64349"
-             style="font-size:180px;line-height:1.25;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.84406233;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.84422111">P</tspan></text>
-      </g>
-      <rect
-         y="160.8222"
-         x="423.54059"
-         height="70.866142"
-         width="265.74805"
-         id="rect827"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           x="-154.10217"
+           id="tspan4201"
+           sodipodi:role="line">P</tspan></text>
     </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect827"
+       width="265.74805"
+       height="70.866142"
+       x="-277.35349"
+       y="11.364714"
+       transform="scale(-1,1)" />
   </g>
 </svg>
